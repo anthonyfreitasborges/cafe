@@ -1,0 +1,38 @@
+@media(max-width: 922px){
+    .secao-texto{
+        padding: 156px 35px;
+    }
+    .secao-texto p{
+        width: 100%;
+    }
+}
+@media(max-width: 768px){
+
+}
+@media(max-width: 425px){
+    .cabecalho .logo{
+        display: block;
+        margin: 0 auto;
+    }
+    .cabecalho nav{
+        position: static;
+        width: 100%;
+        text-align: center;
+    }
+    .cabecalho ul li {
+        display: block;
+    }
+    .cabecalho ul li a{
+        display: block;
+        width: 100%;
+    }
+    .painel1 h2{
+        font: size 2.5em;;
+    }
+
+    .contato h2{
+        
+        
+    
+    }
+}
